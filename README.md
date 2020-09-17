@@ -7,10 +7,8 @@ According to Wikipedia, the MS Estonia was a cruise ship that sank in 1994. It w
 The goal of this work is to establish whether gender and age played a part among those who survived this disaster. It takes a deeper look at the number of men compared to women who survived. It also looks at the age of the survivors, compared to the age of the passengers. 
 
 ## ReadMe Navigation
-[Data](https://github.com/cko-976/Assignment1/blob/master/estonia-passenger-list.csv)
-
-[Report](https://github.com/cko-976/Assignment1/blob/master/Report1.ipynb)
-
+[Data](https://github.com/cko-976/Assignment1/blob/master/estonia-passenger-list.csv)-
+[Report](https://github.com/cko-976/Assignment1/blob/master/Report1.ipynb)-
 [Code](https://github.com/cko-976/Assignment1/blob/master/Code%20notebook1.ipynb)
 
 
