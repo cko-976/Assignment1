@@ -14,11 +14,13 @@ The data for this assignment is from Kaggle Estonia Passenger List. It does not 
 
 ## Project Information
 
-*Language*: Python
-*Tooal*: Anaconda
-*Libraries*: Pandas, Matplotlib
+ **Language**: Python
+  
+ **Tools**: Anaconda
+  
+ **Libraries**: Pandas, Matplotlib
 
-Duration: 10th to 17th September
+**Duration**: 10th to 17th September
 
 ### Reference
 [Wikipedia](https://en.wikipedia.org/wiki/MS_Estonia)
