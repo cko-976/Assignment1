@@ -8,7 +8,10 @@ The goal of this work is to establish whether gender and age played a part among
 
 ## ReadMe Navigation
 [Data](https://github.com/cko-976/Assignment1/blob/master/estonia-passenger-list.csv)
+
 [Report](https://github.com/cko-976/Assignment1/blob/master/Report1.ipynb)
+
+[Code](https://github.com/cko-976/Assignment1/blob/master/Code%20notebook1.ipynb)
 
 
 ## Data
