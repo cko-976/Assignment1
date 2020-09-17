@@ -10,7 +10,7 @@ The goal of this work is to establish whether gender and age played a part among
 ## ReadMe Navigation
 
 ## Data
-The data for this assignment is from Kaggle Estonia Passenger List. It does not give any background information on where the data was collected. However, it does look accurate given that it has actual names. In addition, this was a historial fact so the data maybe readily available. Of the 989 passengers that were about the ship, only 137 survived.
+The data for this assignment is from Kaggle Estonia Passenger List. It does not give any background information on where the data was collected. However, it does look accurate given that it has actual names. In addition, this was a historial fact so the data maybe readily available. Of the 989 passengers that were aboard the ship, only 137 survived.
 
 ## Project Information
 
