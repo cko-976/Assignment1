@@ -8,6 +8,8 @@ The goal of this work is to establish whether gender and age played a part among
 
 ## ReadMe Navigation
 [Data](https://github.com/cko-976/Assignment1/blob/master/estonia-passenger-list.csv)
+[Report](https://github.com/cko-976/Assignment1/blob/master/Report1.ipynb)
+
 
 ## Data
 The data for this assignment is from Kaggle Estonia Passenger List. It does not give any background information on where the data was collected. However, it does look accurate given that it has actual names of passengers and ages. In addition, this was a historial fact so the data maybe readily available. Of the 989 passengers that were aboard the ship, only 137 survived.
