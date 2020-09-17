@@ -1,5 +1,5 @@
 # Overview
-![MS Estonia](https://en.wikipedia.org/wiki/MS_Estonia#/media/File:MS_Estonia_model.jpg)
+![MarkdownLogo](https://en.wikipedia.org/wiki/MS_Estonia#/media/File:MS_Estonia_model.jpg)
 
 ## Background
 According to wikipedia, the MS Estonia was a cruise ship that sank in 1994. It one of the worst maritime disaster second only to the Titanic.
@@ -19,3 +19,6 @@ The data for this assignment is from Kaggle Estonia Passenger List. It does not 
 *Libraries*: Pandas, Matplotlib
 
 Duration: 10th to 17th September
+
+### Reference
+[Wikipedia](https://en.wikipedia.org/wiki/MS_Estonia)
