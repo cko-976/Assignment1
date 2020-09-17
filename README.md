@@ -1,5 +1,5 @@
 # Overview
-![MarkdownLogo](https://en.wikipedia.org/wiki/MS_Estonia#/media/File:MS_Estonia_model.jpg)
+![MS Estonia](https://en.wikipedia.org/wiki/MS_Estonia#/media/File:MS_Estonia_model.jpg)
 
 ## Background
 According to wikipedia, the MS Estonia was a cruise ship that sank in 1994. It one of the worst maritime disaster second only to the Titanic.
